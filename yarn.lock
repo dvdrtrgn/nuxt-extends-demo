@@ -539,7 +539,7 @@
     vite-plugin-checker "^0.5.1"
     vue-bundle-renderer "^0.4.4"
 
-"@nuxtjs/tailwindcss@^6.1.1":
+"@nuxtjs/tailwindcss@^6.0.1":
   version "6.1.1"
   resolved "https://registry.npmjs.org/@nuxtjs/tailwindcss/-/tailwindcss-6.1.1.tgz#6a44072805f7cc26f9528756949a8344134eba36"
   integrity sha512-8yrGk2y7IUAMOW3+b0S/nWQmyZXtLge7pYYDXfiEhU4voL7zMoMdtp+ovmUr5LvTuEn3w5zCDczaBexvy0nmDw==
